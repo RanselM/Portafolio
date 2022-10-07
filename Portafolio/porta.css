@@ -1,0 +1,11 @@
+h1{
+    color: white;
+}
+
+.row {
+    min-height: 10rem;
+}
+body{
+    background-image: url(imagenes/la12.jpg);
+    background-repeat: no-repeat;
+}
